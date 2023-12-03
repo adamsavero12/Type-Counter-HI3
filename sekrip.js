@@ -48,5 +48,5 @@ if (confirm == true) {
 
     alert("Bot memilih " + bot + " sedangkan kamu milih " + player + " hasil permainan: " + hasil);
 } else {
-    alert("gmw main kh ? okoklah aku ngambek")
+    false
 }
